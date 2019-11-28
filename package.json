@@ -1,6 +1,6 @@
 {
-  "name": "juuust-icon",
-  "version": "0.1.28",
+  "name": "ManyChat-Icon-Automation",
+  "version": "0.0.0",
   "description": "Icon automation workflow with Figma",
   "main": "dist/index.js",
   "module": "build/index.js",
@@ -9,8 +9,8 @@
     "dist",
     "es"
   ],
-  "repository": "https://github.com/leadream/juuust-icon.git",
-  "author": "leadream",
+  "repository": "https://github.com/5f5f5f/ManyChat-Icon-Automation.git",
+  "author": "5f5f5f",
   "keywords": [
     "react",
     "icons",
